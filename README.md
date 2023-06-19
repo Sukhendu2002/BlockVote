@@ -4,6 +4,7 @@
 
 This is a decentralized blockchain-based voting system with crowdfunding built on Ethereum smart contracts. The system uses web3.js for verifying the KYC of the user using face matching. All the photos and documents are stored on IPFS, and Twilio is used to send confirmation messages.
 
+#### [E-Voting-on-Tezos-blockchain](https://github.com/Sukhendu2002/CryptoBallot)
 ## Overview of the App
 
 - The app is a secure and transparent way of conducting elections.
